@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=8257E5&labelColor=000000" alt="NLW Together 06" />
+  <img alt="Letmeask" src=".github/logo.svg" width="160px">
   <br />
   <a href="https://www.linkedin.com/in/welltonquirino95/">
     <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welltonquirino95/">
@@ -48,7 +48,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório.
-$ git clone https://github.com/WelltonQ/nlw_6_letmeask.git
+$ git clone https://github.com/WelltonQ/LetmeAsk_nlw6_ReactJS.git
 
 # Vá para a pasta nlw_6_letmeask
 $ cd nlw_6_letmeask
